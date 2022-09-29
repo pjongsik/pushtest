@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064276305714",
+    "project_id": "metal-calculus-135608",
+    "storage_bucket": "metal-calculus-135608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064276305714:android:11eb7cf959a5224513992b",
+        "android_client_info": {
+          "package_name": "kr.co.iquest.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064276305714-hh1obeq1m1vdtr0k39gnjscgqh94ccre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c54ZMiCcGzx7_PcxyWS5TQG5NPLdc4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064276305714-hh1obeq1m1vdtr0k39gnjscgqh94ccre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
